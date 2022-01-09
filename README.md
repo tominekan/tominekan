@@ -2,5 +2,5 @@
 
 ![Image](MY_IDEA.jpeg)
 - 🔭 I’m currently working on stuff
-- 🌱 I’m currently learning systems programming
+- 🌱 I’m currently learning stuff
 - 😄 Pronouns: He/Him
